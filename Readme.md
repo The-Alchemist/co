@@ -6,7 +6,7 @@
 [![Test coverage][coveralls-image]][coveralls-url]
 [![Downloads][downloads-image]][downloads-url]
 
-  Generator based control flow goodness for nodejs and the browser,
+  Generator-based control flow goodness for nodejs and the browser,
   using promises, letting you write non-blocking code in a nice-ish way.
 
 ## Co v4
